@@ -1,0 +1,15 @@
+.active {
+    color: #fff;
+  }
+  
+  .sm {
+    background-color: skyblue;
+  }
+  
+  .md {
+    background-color: blue;
+  }
+  
+  .lr {
+    background-color: rgb(25, 25, 117);
+  }
